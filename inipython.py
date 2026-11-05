@@ -48,7 +48,7 @@ def tampilkan_riwayat():
 # Program utama
 while True:
     print("\n=== KALKULATOR SEDERHANA ===")
-    print("1. Tambah")
+    print("1. Tambah lagi ya maw brapa")
     print("2. Kurang")
     print("3. Kali")
     print("4. Bagi")
