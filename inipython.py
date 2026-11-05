@@ -66,8 +66,8 @@ while True:
         break
 
     if pilihan in ["1", "2", "3", "4"]:
-        a = float(input("Masukkan angka pertama: "))
-        b = float(input("Masukkan angka kedua: "))
+        a = float(input("Masukkan angka pertama yang kamu mau ya: "))
+        b = float(input("Masukkan angka kedua yang kamu mau ya: "))
 
         if pilihan == "1":
             hasil = tambah(a, b)
