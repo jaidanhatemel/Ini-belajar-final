@@ -52,7 +52,7 @@ while True:
     print("2. Kurangi lagi yah")
     print("3. Kali")
     print("4. Bagi")
-    print("5. Lihat Riwayat")
+    print("5. Lihat Riwayat es kiko nyot")
     print("6. Keluar")
 
     pilihan = input("Pilih menu: ")
